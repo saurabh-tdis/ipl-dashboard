@@ -1,0 +1,31 @@
+#swagger:
+#  enabled: true
+#  redirect: true
+#  apiInfo:
+#    title: The Ipl Dahsboard API
+#    description: Ipl dashboard api
+#    version: 1.0
+#    termsOfService: use on your own risk
+#    lisense: APACHE-2.0
+#    licenseUrl: LICENSE.txt
+#    contact:
+#      name: Saurabh Vaish
+#      email: saurabh.vaish1993@gmail.com
+#  dockets:
+#    ipl:
+#      basePackage: "com.app.ipl.controller"
+#      path: "/api/**"
+#      apiInfo:
+#        title: The Ipl Dashboard API
+#        description: Ipl dashboard api
+#        version: 1.0
+#        termsOfService: use on your own risk
+#        lisense: APACHE-2.0
+#        licenseUrl: LICENSE.txt
+#        contact:
+#          name: Saurabh Vaish
+#          email: saurabh.vaish1993@gmail.com
+##          url: http://muppetshow.biz
+##    admin:
+##      basePackage: "biz.muppetshow.admin"
+##      path: "/admin/**"
